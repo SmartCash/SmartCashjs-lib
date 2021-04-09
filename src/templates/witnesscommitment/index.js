@@ -1,3 +1,3 @@
 module.exports = {
-  output: require('./output')
-}
+    output: require('./output'),
+};

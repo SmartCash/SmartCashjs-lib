@@ -1,0 +1,6 @@
+# Ignore all MINIFIED files:
+*.min.js
+*.min.css
+*.min.html
+
+dist
